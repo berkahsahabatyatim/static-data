@@ -1,5 +1,18 @@
 [
-  "id": 1,
-  "title": "Al-Kahfi Time",
-  "img" : "https://www.google.com"
+  {
+   "id": 'alkahfi-2022-02-11',
+   "datebyi": 'Jum, 11 Feb • 05.15',
+   "type": 'Al-Kahfi Time',
+   "title": '3 Pilar Ibadah',
+   "presenter": 'Ust. RK Dadan Surya Negara',
+   "imgurl": 'https://raw.githubusercontent.com/berkahsahabatyatim/static-data/main/img/alkahfi-time.jpeg'
+  },
+  {
+   "id": 'alkahfi-2022-02-11',
+   "datebyi": 'Jum, 11 Feb • 05.15',
+   "type": 'Al-Kahfi Time',
+   "title": '3 Pilar Ibadah',
+   "presenter": 'Ust. RK Dadan Surya Negara',
+   "imgurl": 'https://raw.githubusercontent.com/berkahsahabatyatim/static-data/main/img/alkahfi-time.jpeg'
+  }
 ]
